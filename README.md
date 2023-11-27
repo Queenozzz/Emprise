@@ -1,14 +1,14 @@
-# Emprise- Adventure Blog
+Emprise- Adventure Blog
 
 Welcome to Emprise , your go-to sources for exciting travel adventures, austonishing places to visit, exciting and fun activities and sights to see around the world!
 
 
-## Overview
+Overview
 
 Emprise is a traveling blog dedicated to sharing information about thrilling adventures, sigth seeing and enjoyable experiences in different countries. Whether you're a seasoned traveler or planning your first adventure, this blog is designed to inspire and guide you to some beautiful countries, fantasty places to visits and best activities each destination has to offer.
 
 
-## Features
+Features
 
 -Excapade(Explore) Continent -- with each continent there are 4 beautiful counties listed and 5 places you can visit.
 
@@ -23,7 +23,7 @@ Such few are
 
 Just take your time and go through the blog to see places that are ravishing and start planing your next adventure.
 
-## Excapade
+Excapade
 
 1. Select a countinent and pick a country
 2. Browse the listed countries to find your next adventure destination
