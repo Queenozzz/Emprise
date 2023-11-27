@@ -16,7 +16,6 @@ body{
 
 /* landingpage */
 
-
 .showcase {
     position: absolute;
     right: 0;
@@ -476,8 +475,6 @@ header.head-con ul li:hover > ul{
 
 
 }
-
-
 
 .filterable-cards {
     display: flex;
